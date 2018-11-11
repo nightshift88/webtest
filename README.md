@@ -1,2 +1,2 @@
 # webtest
-Test Repo only for tresting
+Test Repo only for testing
